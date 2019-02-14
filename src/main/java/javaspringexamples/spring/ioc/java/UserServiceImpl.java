@@ -1,8 +1,8 @@
-package com.codercocoon.spring.ioc.java;
+package javaspringexamples.spring.ioc.java;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class UserServiceImpl implements UserService {

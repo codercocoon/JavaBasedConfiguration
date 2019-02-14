@@ -1,10 +1,10 @@
-package com.codercocoon.spring.ioc.configuration.java;
+package javaspringexamples.spring.ioc.java;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class Main {
